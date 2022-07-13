@@ -8,10 +8,10 @@ They intend to analyze the data to draw some actionable insights for the busines
 #### Skills and Tools used
 Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-Data Description
+### Data Description
 The data contains the different data related to a food order. The detailed data dictionary is given below.
 
-Data Dictionary
+### Data Dictionary
 order_id: Unique ID of the order
 customer_id: ID of the customer who ordered the food
 restaurant_name: Name of the restaurant
