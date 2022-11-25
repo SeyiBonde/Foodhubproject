@@ -5,27 +5,31 @@ The number of restaurants in New York is increasing day by day. Lots of students
 The food aggregator company, Foodhub has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
 They intend to analyze the data to draw some actionable insights for the business and have shared some of the key questions that need to be answered.
 
-#### Skills and Tools used
-Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-### Data Description
-The data contains the different data related to a food order. The detailed data dictionary is given below.
+## Skills and tools used
+- Exploratory Data analysis (Variable Identification, Univariate analysis, Bi-Variate analysis)
+- Python
 
-### Data Dictionary
-order_id: Unique ID of the order
+## Libraries used
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
 
-customer_id: ID of the customer who ordered the food
 
-restaurant_name: Name of the restaurant
+### About Me
+I'm Seyi, and there’s absolutely nothing I love more than using data driven strategies for problem-solving in businesses! 
 
-cuisine_type: Cuisine ordered by the customer
+ I’m a skilled Data scientist and analyst passionate about transforming, exploring and extracting useful and actionable insights from data,creating compelling visuals and reports, and bringing the data to life through storytelling that will inspire the change that needs to happen for businesses to maximize their success.
 
-cost_of_the_order: Cost of the order
+Using Python, I explore data and perform statistical analysis such as A/B testing, and create machine learning models using supervised and unsupervised machine learning algorithms, depending on the problems to be solved.
 
-day_of_the_week: Indicates whether the order is placed on a weekday or weekend (The weekday is from Monday to Friday and the weekend is Saturday and Sunday)
+I’m proficient in using Python, SQL (intermediate), Microsoft excel, Microsoft power BI and Tableau. I never stop improving on my existing skills, while i'm pick up more skills that are useful
 
-rating: Rating given by the customer out of 5
+I use Python Libraries regularly to explore data, perform statistical analysis such as A/B testing and build machine learning models (supervised and unsupervised). My most frequently used libraries include Pandas, numpy, matplotlib, plotly, scikit learn and scipy.stats.
 
-food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
-
-delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
+### Connect with me!
+- [Portfolio](https://seyibonde.github.io/SeyiForDataScience.github.io/)
+- [Twitter](https://mobile.twitter.com/seyiflawless)
+- [LinkedIn](https://www.linkedin.com/in/oluwaseyi-bondefaiye-owope-ab9951b1/)
