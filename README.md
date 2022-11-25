@@ -25,7 +25,7 @@ I'm Seyi, and there’s absolutely nothing I love more than using data driven st
 
 Using Python, I explore data and perform statistical analysis such as A/B testing, and create machine learning models using supervised and unsupervised machine learning algorithms, depending on the problems to be solved.
 
-I’m proficient in using Python, SQL (intermediate), Microsoft excel, Microsoft power BI and Tableau. I never stop improving on my existing skills, while i'm pick up more skills that are useful
+I’m proficient in using Python, SQL (intermediate), Microsoft excel, Microsoft power BI and Tableau. I never stop improving on my existing skills, while i'm picking up more skills that are useful
 
 I use Python Libraries regularly to explore data, perform statistical analysis such as A/B testing and build machine learning models (supervised and unsupervised). My most frequently used libraries include Pandas, numpy, matplotlib, plotly, scikit learn and scipy.stats.
 
