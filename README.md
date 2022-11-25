@@ -27,7 +27,6 @@ Using Python, I explore data and perform statistical analysis such as A/B testin
 
 I’m proficient in using Python, SQL (intermediate), Microsoft excel, Microsoft power BI and Tableau. I never stop improving on my existing skills, while i'm picking up more skills that are useful
 
-I use Python Libraries regularly to explore data, perform statistical analysis such as A/B testing and build machine learning models (supervised and unsupervised). My most frequently used libraries include Pandas, numpy, matplotlib, plotly, scikit learn and scipy.stats.
 
 ### Connect with me!
 - [Portfolio](https://seyibonde.github.io/SeyiForDataScience.github.io/)
